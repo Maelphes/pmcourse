@@ -1,16 +1,50 @@
 # Getting started
 
-:::{.callout-note title="Overview"}
-|    Questions    | Objectives                   |
-|-----------------|------------------------------|
-| What is PubMed? | Explain what PubMed contains |
-| What can it do? | Explain what it is used for  |
+:::{.callout-note title="Overview" icon=false appearance="default"}
+|    Questions         | Objectives                   |
+|----------------------|------------------------------|
+| What is PubMed?      | Explain what PubMed contains |
+| What is it good for? | Explain its uses             |
 :::
 
 
 ## What is PubMed?
 
-PubMed is a bibliographic database containing more than 37 million references to
- biomedical and health-related publications. 
+PubMed is a **bibliographic database** containing more than 37 million references[^1] to
+ **biomedical and health-related publications**. 
 
-1. Please go to <https://pubmed.ncbi.nlm.nih.gov/>.
+[^1]: as of June 2024
+
+:::{.callout-caution title="What can I find on PubMed?" icon=false appearance="default"}
+1. Open <https://pubmed.ncbi.nlm.nih.gov/>.
+2. Enter the term [`inappropriate prescribing`](https://pubmed.ncbi.nlm.nih.gov/?term=inappropriate+prescribing) into the query field and hit 'Search'.
+3. Click on [any result](https://pubmed.ncbi.nlm.nih.gov/37225248/) from the appearing list and take a look at it.
+:::
+
+:::{.callout-tip title="Answer" icon=false appearance="default"}
+PubMed does not contain any full texts, but **references** to publications. 
+These references contain **bibliographic information**, among others:
+
+- title
+- abstract
+- authors and their affiliations
+- journal name
+- publication date
+- publication type
+- author keywords
+- index terms
+:::
+
+[![Example: PubMed reference 37225248](./fig/example_37225248.jpg)](https://pubmed.ncbi.nlm.nih.gov/37225248/){fig-alt="Screenshot of PMID 37225248"}
+
+
+## What is it good for?
+
+The aforementioned bibliographic information is descriptive metadata that allows
+the targeted retrieval of publications.
+
+At first glance, bibliographic information appears less useful than the full 
+text. However, imagine trying to find all the literature relevant to a certain 
+subject with just the full texts.
+
+

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PubMed course",
     "section": "",
-    "text": "Preface\nThis is a course on using PubMed.\nFor additional guidance please refer to the official PubMed User Guide.",
+    "text": "Preface\nThis is a course on using PubMed.\nFor additional guidance please refer to the official PubMed User Guide.\n\n\n\n\n\n\nNote\n\n\n\nnote\n\n\n\n\n\n\n\n\nWarning\n\n\n\nwarning\n\n\n\n\n\n\n\n\nImportant\n\n\n\nimportant\n\n\n\n\n\n\n\n\nTip\n\n\n\ntip\n\n\n\n\n\n\n\n\nCaution\n\n\n\ncaution",
     "crumbs": [
       "Preface"
     ]
@@ -14,7 +14,7 @@
     "href": "intro.html",
     "title": "1  Getting started",
     "section": "",
-    "text": "1.1 What is PubMed?\nPubMed is a bibliographic database containing more than 37 million references to biomedical and health-related publications.",
+    "text": "1.1 What is PubMed?\nPubMed is a bibliographic database containing more than 37 million references1 to biomedical and health-related publications.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Getting started</span>"
     ]
@@ -24,7 +24,27 @@
     "href": "intro.html#what-is-pubmed",
     "title": "1  Getting started",
     "section": "",
-    "text": "Please go to https://pubmed.ncbi.nlm.nih.gov/.",
+    "text": "What can I find on PubMed?\n\n\n\n\nOpen https://pubmed.ncbi.nlm.nih.gov/.\nEnter the term inappropriate prescribing into the query field and hit ‘Search’.\nClick on any result from the appearing list and take a look at it.\n\n\n\n\n\n\n\n\n\nAnswer\n\n\n\nPubMed does not contain any full texts, but references to publications. These references contain bibliographic information, among others:\n\ntitle\nabstract\nauthors and their affiliations\njournal name\npublication date\npublication type\nauthor keywords\nindex terms\n\n\n\n\n\n\nExample: PubMed reference 37225248",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Getting started</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#what-is-it-good-for",
+    "href": "intro.html#what-is-it-good-for",
+    "title": "1  Getting started",
+    "section": "1.2 What is it good for?",
+    "text": "1.2 What is it good for?\nThe aforementioned bibliographic information is descriptive metadata that allows the targeted retrieval of publications.\nAt first glance, bibliographic information appears less useful than the full text. However, imagine trying to find all the literature relevant to a certain subject with just the full texts.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Getting started</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#footnotes",
+    "href": "intro.html#footnotes",
+    "title": "1  Getting started",
+    "section": "",
+    "text": "as of June 2024↩︎",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Getting started</span>"
     ]
