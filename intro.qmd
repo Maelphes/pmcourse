@@ -1,0 +1,16 @@
+# Getting started
+
+:::{.callout-note title="Overview"}
+|    Questions    | Objectives                   |
+|-----------------|------------------------------|
+| What is PubMed? | Explain what PubMed contains |
+| What can it do? | Explain what it is used for  |
+:::
+
+
+## What is PubMed?
+
+PubMed is a bibliographic database containing more than 37 million references to
+ biomedical and health-related publications. 
+
+1. Please go to <https://pubmed.ncbi.nlm.nih.gov/>.

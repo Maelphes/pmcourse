@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+This is a course on using PubMed.
+
+For additional guidance please refer to the official [PubMed User Guide](https://pubmed.ncbi.nlm.nih.gov/help/).

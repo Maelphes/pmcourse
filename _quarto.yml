@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "PubMed course"
+  author: "Marc von Gernler"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+  navbar:
+    background: "#2a536b" 
+  search:
+    location: sidebar
+    type: textbox
+  repo-url: https://www.github.com/Maelphes/pmcourse
+  repo-branch: main
+  repo-actions: [edit, issue, source]
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: spacelab
+    link-external-newwindow: true
+    linkcolor: "#5080AA"
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
